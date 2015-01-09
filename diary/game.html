@@ -1,0 +1,20 @@
+<meta charset="utf-8">
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="../util.js"></script>
+<script>
+  var main = $("<ul>")
+  .append(li("http://diary.seulgi.kim/2014/07/assassins-creed-iii_26.html", "Assassin's creed III 후기"))
+  .append(li("http://diary.seulgi.kim/2014/07/assassins-creed-iii-dlc-tyranny-of-king.html", "Assassin's creed III DLC - The Tyranny of King Washington 후기"))
+  .append(li("http://diary.seulgi.kim/2014/08/blog-post_28.html", "스팀에 영어지원 안 하는 게임은 얼마나 있을까?"))
+  .append(li("http://diary.seulgi.kim/2014/08/paper-please.html", "노동노동 하는 게임 - Paper, Please"))
+  .append(li("http://diary.seulgi.kim/2014/09/enslaved-odyssey-to-west.html", "ENSLAVED: Odyssey to the West 리뷰"))
+  .append(li("http://diary.seulgi.kim/2014/09/prototype.html", "Prototype 리뷰"))
+  .append(li("http://diary.seulgi.kim/2014/10/sleeping-dogs.html", "Sleeping Dogs - 게임으로 즐기는 홍콩 느와르"))
+  .append(li("http://diary.seulgi.kim/2014/10/gods-vs-humans.html", "Gods vs Humans"))
+
+  var result = $("<div>")
+  .append($("<h2>").append(a("http://diary.seulgi.kim/search/label/Game", "게임")).css("border-bottom", "0px"))
+  .append(main);
+
+  write(result);
+</script>
