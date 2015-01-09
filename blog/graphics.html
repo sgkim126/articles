@@ -1,0 +1,16 @@
+<meta charset="utf-8">
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="../util.js"></script>
+<script>
+  var main = $("<ul>")
+  .append(li("http://blog.seulgi.kim/2014/05/flip-copy-double-buffering-2.html", "copy와 flip - Double buffering의 2가지 기법"))
+  .append(li("http://blog.seulgi.kim/2014/05/triple-buffering.html", "왜 Triple buffering을 사용하는가"))
+  .append(li("http://blog.seulgi.kim/2014/08/graphics-sprite.html", "Sprite는 무엇인가"))
+  .append(li("http://blog.seulgi.kim/2014/12/learning-webgl.html", "WebGL 공부 시작"));
+
+  var result = $("<div>")
+  .append($("<h2>").append(a("http://blog.seulgi.kim/search/label/graphics", "Graphics")).css("border-bottom", "0px"))
+  .append(main);
+
+  write(result);
+</script>
