@@ -1,0 +1,14 @@
+<meta charset="utf-8">
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="../util.js"></script>
+<script>
+  var main = $("<ul>")
+  .append(li("http://blog.seulgi.kim/2014/04/log-aggregator-scribe-flume-fluentd.html", "Log Aggregator 비교 - Scribe, Flume, Fluentd, logstash"))
+  .append(li("http://blog.seulgi.kim/2014/04/fluentd-pluggable-log-collector.html", "Fluentd - Pluggable log collector"))
+
+  var result = $("<div>")
+  .append($("<h2>").append(a("http://blog.seulgi.kim/search/label/Log%20Aggregator", "Log Aggregator")).css("border-bottom", "0px"))
+  .append(main);
+
+  write(result);
+</script>
