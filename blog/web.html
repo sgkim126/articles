@@ -1,0 +1,15 @@
+<meta charset="utf-8">
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="../util.js"></script>
+<script>
+  var main = $("<ul>")
+  .append(li("http://blog.seulgi.kim/2014/03/html5-lint-console-html-page-validate.html", "console에서 html page validate하기"))
+  .append(li("http://blog.seulgi.kim/2014/12/learning-webgl.html", "WebGL 공부 시작"))
+  .append(li("http://blog.seulgi.kim/2014/12/file-uri-same-origin-policy.html", "file URI와 same-origin policy"))
+
+  var result = $("<div>")
+  .append($("<h2>").append(a("http://blog.seulgi.kim/search/label/web", "웹 개발")).css("border-bottom", "0px"))
+  .append(main);
+
+  write(result);
+</script>
