@@ -1,0 +1,14 @@
+<meta charset="utf-8">
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="../util.js"></script>
+<script>
+  var main = $("<ul>")
+  .append(li("http://diary.seulgi.kim/2014/03/blog-post.html", "스팀 펑크 아트전"))
+  .append(li("http://diary.seulgi.kim/2014/07/orsay.html", "오르세미술관전"))
+
+  var result = $("<div>")
+  .append($("<h2>").append("전시회").css("border-bottom", "0px"))
+  .append(main);
+
+  write(result);
+</script>
