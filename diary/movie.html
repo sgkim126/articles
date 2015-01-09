@@ -1,0 +1,14 @@
+<meta charset="utf-8">
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="../util.js"></script>
+<script>
+  var main = $("<ul>")
+  .append(li("http://diary.seulgi.kim/2014/10/maze-runner.html", "The maze runner"))
+  .append(li("http://diary.seulgi.kim/2014/10/blog-post.html", "드라큘라: 전설의 시작"))
+
+  var result = $("<div>")
+  .append($("<h2>").append(a("http://diary.seulgi.kim/search/label/movie", "영화")).css("border-bottom", "0px"))
+  .append(main);
+
+  write(result);
+</script>
