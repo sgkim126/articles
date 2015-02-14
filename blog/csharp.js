@@ -1,1 +1,0 @@
-document.write('<h2 style="border-bottom-width: 0px;"><a href="http://blog.seulgi.kim/search/label/C%23" target="_blank">C#</a></h2><ul><li><a href="http://blog.seulgi.kim/2014/10/c-extension-method-class.html" target="_blank">extension method - 존재하는 class 확장하기</a></li></ul>');

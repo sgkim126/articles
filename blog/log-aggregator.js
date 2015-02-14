@@ -1,2 +1,0 @@
-document.write('<h2 style="border-bottom-width: 0px;"><a href="http://blog.seulgi.kim/search/label/Log%20Aggregator" target="_blank">Log Aggregator</a></h2><ul><li><a href="http://blog.seulgi.kim/2014/04/log-aggregator-scribe-flume-fluentd.html" target="_blank">Log Aggregator 비교 - Scribe, Flume, Fluentd, logstash</a></li><li><a href="http://blog.seulgi.kim/2014/04/fluentd-pluggable-log-collector.html" target="_blank">Fluentd - Pluggable log collector</a></li></ul>');
-
