@@ -17,3 +17,4 @@
 * [[이촌] 갯마을 - 만두국](http://diary.seulgi.kim/2014/10/28-mandu.html)
 * [맥도날드 - 디럭스 쉬림프 버거](http://diary.seulgi.kim/2014/10/30-m.html)
 * [[이촌] 스즈란테이 - 완전 추천하는 일본 정식집](http://diary.seulgi.kim/2014/11/03-suzuran-tei.html)
+* [[용산역] 삿포로 라멘](http://diary.seulgi.kim/2014/11/07-satporo.html)
