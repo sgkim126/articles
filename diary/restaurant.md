@@ -1,4 +1,4 @@
-## 맛집 리뷰 {: style="border-bottom-width: 0px;" }
+## 식당 리뷰 {: style="border-bottom-width: -1px;" }
 * [Waiting bus - 독특한 컨셉의 까페](http://diary.seulgi.kim/2014/03/waiting-bus.html)
 * [그램그램 - 싸게 먹는 소고기](http://diary.seulgi.kim/2014/06/blog-post.html)
 * [설빙 - 망고 치즈 빙수](http://diary.seulgi.kim/2014/06/blog-post_15.html)
