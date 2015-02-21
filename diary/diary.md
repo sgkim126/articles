@@ -3,3 +3,4 @@
 * [이상한 블로그 발견](http://diary.seulgi.kim/2014/07/blog-post.html)
 * [꿈속에서 감각은 어디까지 느껴질까](http://diary.seulgi.kim/2014/11/blog-post.html)
 * [역시 세상은 자동화되여야 한다.](http://diary.seulgi.kim/2015/01/automation.html)
+* [ICing 맛있다](http://diary.seulgi.kim/2015/02/19-icing.html)
