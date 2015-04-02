@@ -2,15 +2,10 @@
 * [Waiting bus - 독특한 컨셉의 까페](http://diary.seulgi.kim/2014/03/waiting-bus.html)
 * [그램그램 - 싸게 먹는 소고기](http://diary.seulgi.kim/2014/06/blog-post.html)
 * [설빙 - 망고 치즈 빙수](http://diary.seulgi.kim/2014/06/blog-post_15.html)
-* [롯데리아 - 미트 포테이토 버거](http://diary.seulgi.kim/2014/06/blog-post_16.html)
-* [해시 브라운 버거 vs 미트 포테이토 버거](http://diary.seulgi.kim/2014/06/hash-brown-burger.html)
 * [빙꼬앙](http://diary.seulgi.kim/2014/07/blog-post_1.html)
 * [금수복국](http://diary.seulgi.kim/2014/08/blog-post_3.html)
 * [필동면옥](http://diary.seulgi.kim/2014/08/blog-post.html)
 * [퀴즈노스 - 프렌치 딥](http://diary.seulgi.kim/2014/09/quiznos-french-dip.html)
-* [KFC - 더블징거다운킹](http://diary.seulgi.kim/2014/10/kfc.html)
-* [맥도날드 - 디럭스 쉬림프 버거](http://diary.seulgi.kim/2014/10/30-m.html)
-* [[버거킹] 킹 모닝 세트](http://diary.seulgi.kim/2014/11/13-burger-king.html)
 
 ### 강남역
 * [을밀대](http://diary.seulgi.kim/2014/05/blog-post_7117.html)
@@ -29,3 +24,10 @@
 ### 용산역
 * [[용산역] 삿포로 라멘](http://diary.seulgi.kim/2014/11/07-satporo.html)
 * [[용산역] 버거 앤 쉐이크](http://diary.seulgi.kim/2014/11/07-burger.html)
+
+### 패스트 푸드
+* [롯데리아 - 미트 포테이토 버거](http://diary.seulgi.kim/2014/06/blog-post_16.html)
+* [해시 브라운 버거 vs 미트 포테이토 버거](http://diary.seulgi.kim/2014/06/hash-brown-burger.html)
+* [KFC - 더블징거다운킹](http://diary.seulgi.kim/2014/10/kfc.html)
+* [맥도날드 - 디럭스 쉬림프 버거](http://diary.seulgi.kim/2014/10/30-m.html)
+* [[버거킹] 킹 모닝 세트](http://diary.seulgi.kim/2014/11/13-burger-king.html)
