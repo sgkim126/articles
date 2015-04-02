@@ -18,8 +18,8 @@
 * [저니 - 수제버거](http://diary.seulgi.kim/2013/11/05-journey.html)
 
 ### 이촌동
-* [[이촌] 갯마을 - 만두국](http://diary.seulgi.kim/2014/10/28-mandu.html)
-* [[이촌] 스즈란테이 - 완전 추천하는 일본 정식집](http://diary.seulgi.kim/2014/11/03-suzuran-tei.html)
+* [갯마을 - 만두국](http://diary.seulgi.kim/2014/10/28-mandu.html)
+* [스즈란테이 - 완전 추천하는 일본 정식집](http://diary.seulgi.kim/2014/11/03-suzuran-tei.html)
 * [동천홍](http://diary.seulgi.kim/2014/11/14-chinese.html)
 
 ### 용산역
