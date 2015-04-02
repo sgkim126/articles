@@ -34,3 +34,4 @@
 * [KFC - 더블징거다운킹](http://diary.seulgi.kim/2014/10/kfc.html)
 * [맥도날드 - 디럭스 쉬림프 버거](http://diary.seulgi.kim/2014/10/30-m.html)
 * [[버거킹] 킹 모닝 세트](http://diary.seulgi.kim/2014/11/13-burger-king.html)
+* [버거킹 - 치즈 후라이](http://diary.seulgi.kim/2014/12/03-burger-king.html)
