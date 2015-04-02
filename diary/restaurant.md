@@ -11,6 +11,7 @@
 * [KFC - 더블징거다운킹](http://diary.seulgi.kim/2014/10/kfc.html)
 * [맥도날드 - 디럭스 쉬림프 버거](http://diary.seulgi.kim/2014/10/30-m.html)
 * [[용산역] 삿포로 라멘](http://diary.seulgi.kim/2014/11/07-satporo.html)
+* [[용산역] 버거 앤 쉐이크](http://diary.seulgi.kim/2014/11/07-burger.html)
 
 ### 강남역
 * [을밀대](http://diary.seulgi.kim/2014/05/blog-post_7117.html)
