@@ -16,6 +16,7 @@
 * [초밥 좋은 날 - 서울대입구역](http://diary.seulgi.kim/2014/09/blog-post.html)
 * [가츠몽 - 서울대입구역점](http://diary.seulgi.kim/2014/10/gasmong.html)
 * [저니 - 수제버거](http://diary.seulgi.kim/2013/11/05-journey.html)
+* [모리돈부리 - 연어 덮밥](http://diary.seulgi.kim/2014/12/02-moridonburi.html)
 
 ### 이촌동
 * [갯마을 - 만두국](http://diary.seulgi.kim/2014/10/28-mandu.html)
