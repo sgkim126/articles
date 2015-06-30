@@ -8,3 +8,4 @@
 * [역시 세상은 자동화되여야 한다.](http://diary.seulgi.kim/2015/01/automation.html)
 * [ICing 맛있다](http://diary.seulgi.kim/2015/02/19-icing.html)
 * [이상한 블로그 또 발견](http://diary.seulgi.kim/2015/04/copy.html)
+* [알바 계약 종료](http://diary.seulgi.kim/2015/06/alba-finish.html)
