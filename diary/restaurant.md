@@ -31,6 +31,7 @@
 ### 용산역
 * [삿포로 라멘](http://diary.seulgi.kim/2014/11/07-satporo.html)
 * [버거 앤 쉐이크](http://diary.seulgi.kim/2014/11/07-burger.html)
+* [메밀 공방](http://diary.seulgi.kim/2015/07/yongsan-01.html)
 
 ### 패스트 푸드
 * [롯데리아 - 미트 포테이토 버거](http://diary.seulgi.kim/2014/06/blog-post_16.html)
