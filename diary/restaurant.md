@@ -13,6 +13,9 @@
 * [을밀대 - 녹두전? 고기전?](http://diary.seulgi.kim/2014/10/blog-post_3.html)
 * [Steak n Pho](http://diary.seulgi.kim/2015/01/steak-n-pho.html)
 
+### 뱅뱅사거리
+* [교동 짬뽕](http://diary.seulgi.kim/2014/06/bang-12.html)
+
 ### 서울대입구역
 * [초밥 좋은 날 - 서울대입구역](http://diary.seulgi.kim/2014/09/blog-post.html)
 * [가츠몽 - 서울대입구역점](http://diary.seulgi.kim/2014/10/gasmong.html)
