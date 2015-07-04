@@ -7,35 +7,6 @@
 * [필동면옥](http://diary.seulgi.kim/2014/08/blog-post.html)
 * [퀴즈노스 - 프렌치 딥](http://diary.seulgi.kim/2014/09/quiznos-french-dip.html)
 
-### 강남역
-* [을밀대](http://diary.seulgi.kim/2014/05/blog-post_7117.html)
-* [더치 비어 - 칵테일이 전부 맛있지는 않다.](http://diary.seulgi.kim/2014/05/blog-post_18.html)
-* [을밀대 - 녹두전? 고기전?](http://diary.seulgi.kim/2014/10/blog-post_3.html)
-* [Steak n Pho](http://diary.seulgi.kim/2015/01/steak-n-pho.html)
-
-### 뱅뱅사거리
-* [교동 짬뽕](http://diary.seulgi.kim/2014/06/bang-12.html)
-
-### 서울대입구역
-* [초밥 좋은 날 - 서울대입구역](http://diary.seulgi.kim/2014/09/blog-post.html)
-* [가츠몽 - 서울대입구역점](http://diary.seulgi.kim/2014/10/gasmong.html)
-* [저니 - 수제버거](http://diary.seulgi.kim/2014/11/05-journey.html)
-* [모리돈부리 - 연어 덮밥](http://diary.seulgi.kim/2014/12/02-moridonburi.html)
-* [성민 양꼬치](http://diary.seulgi.kim/2014/12/blog-post_16.html)
-* [링고 - 과일 쥬스 모음](http://diary.seulgi.kim/2014/12/16-LINGO.html)
-* [수제버거 Journey](http://diary.seulgi.kim/2014/12/27-journey.html)
-* [모리돈부리 - 가츠동](http://diary.seulgi.kim/2015/01/02-moridonburi.html)
-
-### 이촌동
-* [갯마을 - 만두국](http://diary.seulgi.kim/2014/10/28-mandu.html)
-* [스즈란테이 - 완전 추천하는 일본 정식집](http://diary.seulgi.kim/2014/11/03-suzuran-tei.html)
-* [동천홍](http://diary.seulgi.kim/2014/11/14-chinese.html)
-
-### 용산역
-* [삿포로 라멘](http://diary.seulgi.kim/2014/11/07-satporo.html)
-* [버거 앤 쉐이크](http://diary.seulgi.kim/2014/11/07-burger.html)
-* [메밀 공방](http://diary.seulgi.kim/2015/07/yongsan-01.html)
-
 ### 패스트 푸드
 * [롯데리아 - 미트 포테이토 버거](http://diary.seulgi.kim/2014/06/blog-post_16.html)
 * [해시 브라운 버거 vs 미트 포테이토 버거](http://diary.seulgi.kim/2014/06/hash-brown-burger.html)
