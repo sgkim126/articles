@@ -1,5 +1,5 @@
-### [Multithreading](http://blog.seulgi.kim/search/label/multithreading)
+### [Multithreading](/search/label/multithreading)
 
-#### [Global Interpreter Lock](http://blog.seulgi.kim/search/label/GIL)
-* [Global Interpreter Lock이란](http://blog.seulgi.kim/2015/01/global-interpreter-lock.html)
-* [Gil과 Python](http://blog.seulgi.kim/2015/07/gil-python.html)
+#### [Global Interpreter Lock](/search/label/GIL)
+* [Global Interpreter Lock이란](/2015/01/global-interpreter-lock.html)
+* [Gil과 Python](/2015/07/gil-python.html)

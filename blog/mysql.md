@@ -1,1 +1,1 @@
-### [MySQL](http://blog.seulgi.kim/search/label/MySQL)
+### [MySQL](/search/label/MySQL)
