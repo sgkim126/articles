@@ -13,3 +13,4 @@
 * [한 학기를 15주나 하는건 너무 길다. ](http://diary.seulgi.kim/2015/06/01.html)
 * [Github longest streak 100일 달성](http://diary.seulgi.kim/2015/06/github-longest-streak-100.html)
 * [알바 계약 종료](http://diary.seulgi.kim/2015/06/alba-finish.html)
+* [다른 블로그 서비스 찾는 중](http://diary.seulgi.kim/2015/07/find-blog-service.html)
