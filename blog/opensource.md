@@ -1,4 +1,4 @@
-### Project
+### open source
 * [GateOne - HTML5 ssh client](http://blog.seulgi.kim/2013/11/gateone-html5-ssh-client.html)
 * [console에서 html page validate하기](http://blog.seulgi.kim/2014/03/html5-lint-console-html-page-validate.html)
 * [Rhino - JavaScript framework](http://blog.seulgi.kim/2014/06/rhino-javascript-framework.html)
