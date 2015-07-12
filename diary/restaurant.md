@@ -7,6 +7,7 @@
 * [필동면옥](http://diary.seulgi.kim/2014/08/blog-post.html)
 * [퀴즈노스 - 프렌치 딥](http://diary.seulgi.kim/2014/09/quiznos-french-dip.html)
 * [까르보 아저씨 ](http://diary.seulgi.kim/2015/07/carbo.html)
+* [나라비 우동](http://diary.seulgi.kim/2015/07/08-narabi.html)
 
 ### 패스트 푸드
 * [롯데리아 - 미트 포테이토 버거](http://diary.seulgi.kim/2014/06/blog-post_16.html)
