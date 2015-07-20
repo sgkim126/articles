@@ -14,3 +14,4 @@
 * [Github longest streak 100일 달성](http://diary.seulgi.kim/2015/06/github-longest-streak-100.html)
 * [알바 계약 종료](http://diary.seulgi.kim/2015/06/alba-finish.html)
 * [다른 블로그 서비스 찾는 중](http://diary.seulgi.kim/2015/07/find-blog-service.html)
+* [카테고리 씨어리 공부 중](http://diary.seulgi.kim/2015/07/category-theory.html)
