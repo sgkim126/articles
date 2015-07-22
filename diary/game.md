@@ -7,3 +7,4 @@
 * [Prototype 리뷰](http://diary.seulgi.kim/2014/09/prototype.html)
 * [Sleeping Dogs - 게임으로 즐기는 홍콩 느와르](http://diary.seulgi.kim/2014/10/sleeping-dogs.html)
 * [Gods vs Humans](http://diary.seulgi.kim/2014/10/gods-vs-humans.html)
+* [Call of Juarez: Gunslinger](http://diary.seulgi.kim/2015/07/call-of-juarez-gunslinger.html)
