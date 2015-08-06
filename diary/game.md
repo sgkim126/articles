@@ -9,3 +9,4 @@
 * [Gods vs Humans](http://diary.seulgi.kim/2014/10/gods-vs-humans.html)
 * [Call of Juarez: Gunslinger](http://diary.seulgi.kim/2015/07/call-of-juarez-gunslinger.html)
 * [Contrast](http://diary.seulgi.kim/2015/08/game-contrast.html)
+* [히트맨: 앱솔루션](http://diary.seulgi.kim/2015/08/hitman-absolution.html)
