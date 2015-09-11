@@ -4,3 +4,4 @@
 1. [함수 이름 가져오기](http://blog.seulgi.kim/2015/08/ecmascript-6-function-name.html)
 1. [block 안에서 함수 만들기](http://blog.seulgi.kim/2015/08/ecmascript-6-block-function.html)
 1. [Symbol - 7번째 primitive type](http://blog.seulgi.kim/2015/08/ecmascript-6-symbol.html)
+1. [비동기 코드 작성하기](http://blog.seulgi.kim/2015/09/ecmascript-6-promise.html)
