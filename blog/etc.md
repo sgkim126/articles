@@ -9,3 +9,4 @@
 * [Cyclomatic complexity - 코드의 복잡성을 정량적으로 측정하기](http://blog.seulgi.kim/2015/01/cyclomatic-complexity.html)
 * [한줄짜리 코드에도 반드시 괄호를 써야한다](http://blog.seulgi.kim/2015/04/curly-braces.html)
 * [변하지 않아도 되는 코드는 죽은 코드 뿐이다.](http://blog.seulgi.kim/2015/06/dead-code.html)
+* [빈 객체 크기는?](http://blog.seulgi.kim/2015/09/size-of-empty-class-is-not-zero.html)
