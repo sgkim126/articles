@@ -1,4 +1,4 @@
-## [게임](http://diary.seulgi.kim/search/label/Game) {: style="border-bottom-width: 0px;" }
+## [게임](http://diary.seulgi.kim/search/label/Game)
 * [Assassin's creed III 후기](http://diary.seulgi.kim/2014/07/assassins-creed-iii_26.html)
 * [Assassin's creed III DLC - The Tyranny of King Washington 후기](http://diary.seulgi.kim/2014/07/assassins-creed-iii-dlc-tyranny-of-king.html)
 * [스팀에 영어지원 안 하는 게임은 얼마나 있을까?](http://diary.seulgi.kim/2014/08/blog-post_28.html)
