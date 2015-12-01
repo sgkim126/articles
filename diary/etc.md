@@ -15,3 +15,4 @@
 * [알바 계약 종료](http://diary.seulgi.kim/2015/06/alba-finish.html)
 * [다른 블로그 서비스 찾는 중](http://diary.seulgi.kim/2015/07/find-blog-service.html)
 * [카테고리 씨어리 공부 중](http://diary.seulgi.kim/2015/07/category-theory.html)
+* [2560 해상도는 신세계다](http://diary.seulgi.kim/2015/12/2560-resolution.html)
