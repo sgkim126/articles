@@ -11,3 +11,4 @@
 * [Contrast](http://diary.seulgi.kim/2015/08/game-contrast.html)
 * [히트맨: 앱솔루션](http://diary.seulgi.kim/2015/08/hitman-absolution.html)
 * [X-blade](http://diary.seulgi.kim/2015/09/xblades.html)
+* [Assassin’s Creed IV - Black Flag](http://diary.seulgi.kim/2015/12/assassins-creed-IV-black-flag.html)
