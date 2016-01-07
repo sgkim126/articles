@@ -6,3 +6,4 @@
 1. [Symbol - 7번째 primitive type](http://blog.seulgi.kim/2015/08/ecmascript-6-symbol.html)
 1. [비동기 코드 작성하기](http://blog.seulgi.kim/2015/09/ecmascript-6-promise.html)
  * [성공적인 Promise는 중첩되지 않는다](http://blog.seulgi.kim/2015/09/ecmascript-6-resolved-promise-cannot-be-nested.html)
+1. [method 선언하기](http://blog.seulgi.kim/2016/01/ecmascript-6-method_8.html)
