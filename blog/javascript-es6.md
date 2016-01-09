@@ -8,3 +8,4 @@
  * [성공적인 Promise는 중첩되지 않는다](http://blog.seulgi.kim/2015/09/ecmascript-6-resolved-promise-cannot-be-nested.html)
 1. [method 선언하기](http://blog.seulgi.kim/2016/01/ecmascript-6-method_8.html)
 1. [property 선언하기](http://blog.seulgi.kim/2016/01/ecmascript-6-property.html)
+1. [class 선언하기](http://blog.seulgi.kim/2016/01/ecmascript-6-class.html)
