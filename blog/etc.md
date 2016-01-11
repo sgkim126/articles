@@ -11,3 +11,4 @@
 * [변하지 않아도 되는 코드는 죽은 코드 뿐이다.](http://blog.seulgi.kim/2015/06/dead-code.html)
 * [빈 객체 크기는?](http://blog.seulgi.kim/2015/09/size-of-empty-class-is-not-zero.html)
 * [대수적 자료형과 정적 타입 분석이 필요하다](http://blog.seulgi.kim/2016/01/algebraic-data-type-and-static-type-checking-is-needed.html)
+* [reflection과 introspection](http://blog.seulgi.kim/2016/01/reflection-introspection.html)
