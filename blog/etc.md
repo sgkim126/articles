@@ -13,3 +13,4 @@
 * [대수적 자료형과 정적 타입 분석이 필요하다](http://blog.seulgi.kim/2016/01/algebraic-data-type-and-static-type-checking-is-needed.html)
 * [reflection과 introspection](http://blog.seulgi.kim/2016/01/reflection-introspection.html)
 * [OSI 모델은 무엇인가](http://blog.seulgi.kim/2016/03/osi-model.html)
+* [Balanced graph와 unbalanced graph](http://blog.seulgi.kim/2016/04/balanced-unbalanced-graph.html)
