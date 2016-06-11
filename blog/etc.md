@@ -15,3 +15,4 @@
 * [OSI 모델은 무엇인가](http://blog.seulgi.kim/2016/03/osi-model.html)
 * [Balanced graph와 unbalanced graph](http://blog.seulgi.kim/2016/04/balanced-unbalanced-graph.html)
 * [Normalized Compression Distance - 압축 알고리즘을 통해서 유사도 비교하기](http://blog.seulgi.kim/2016/06/normalized-compression-distance.html)
+* [Normalized Google Distance - 구글을 통해서 유사도 비교하기](http://blog.seulgi.kim/2016/06/normalized-google-distance.html)
