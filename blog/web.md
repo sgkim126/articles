@@ -3,3 +3,4 @@
 * [WebGL 공부 시작](http://blog.seulgi.kim/2014/12/learning-webgl.html)
 * [file URI와 same-origin policy](http://blog.seulgi.kim/2014/12/file-uri-same-origin-policy.html)
 * [confirm password 필드는 더 이상 필요 없는가](http://blog.seulgi.kim/2015/09/why-the-confirm-password-field-must-live.html)
+* [SpeechSynthesis - TTS API](http://blog.seulgi.kim/2016/08/web-speechsynthesis-tts-api.html)
