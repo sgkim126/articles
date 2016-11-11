@@ -16,3 +16,4 @@
 * [A bird story](http://diary.seulgi.kim/2016/04/a-bird-story.html)
 * [I, Zombie ](http://diary.seulgi.kim/2016/04/i-zombie.html)
 * [Last Horizon](http://diary.seulgi.kim/2016/09/last-horizon.html)
+* [Styx: Master of Shadows](http://diary.seulgi.kim/2016/11/styx-master-of-shadows.html)
