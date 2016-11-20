@@ -18,3 +18,4 @@
 * [Last Horizon](http://diary.seulgi.kim/2016/09/last-horizon.html)
 * [Styx: Master of Shadows](http://diary.seulgi.kim/2016/11/styx-master-of-shadows.html)
 * [Forward to the Sky](http://diary.seulgi.kim/2016/11/forward-to-sky.html)
+* [Prototype 2 ](http://diary.seulgi.kim/2016/11/prototype-2.html)
