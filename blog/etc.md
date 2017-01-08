@@ -17,3 +17,4 @@
 * [Normalized Compression Distance - 압축 알고리즘을 통해서 유사도 비교하기](http://blog.seulgi.kim/2016/06/normalized-compression-distance.html)
 * [Normalized Google Distance - 구글을 통해서 유사도 비교하기](http://blog.seulgi.kim/2016/06/normalized-google-distance.html)
 * [Go의 장단점](http://blog.seulgi.kim/2016/07/go.html)
+* [Lua를 쓰면 3번째 의자가 필요하지 않을까 - lua는 어떻게 swap할까 ](http://blog.seulgi.kim/2017/01/lua-swap.html)
