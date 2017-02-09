@@ -3,3 +3,4 @@
 * [Object slicing](http://blog.seulgi.kim/2015/02/c-object-slicing.html)
 * [C는 C++의 부분집합이 아니다](http://blog.seulgi.kim/2015/04/c-is-not-subset-of-cpp.html)
 * [enum class - 안전하고 쓰기 쉬운 enum](http://blog.seulgi.kim/2015/11/cpp-enum-class.html)
+* [생성자에서 예외가 발생하면 어떻게 될까](http://blog.seulgi.kim/2017/02/cpp-exception-in-constructor.html)
