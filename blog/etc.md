@@ -19,3 +19,4 @@
 * [Go의 장단점](http://blog.seulgi.kim/2016/07/go.html)
 * [Lua를 쓰면 3번째 의자가 필요하지 않을까 - lua는 어떻게 swap할까 ](http://blog.seulgi.kim/2017/01/lua-swap.html)
 * [round(1234.5)의 결과는 무엇일까](http://blog.seulgi.kim/2017/03/round-12345.html)
+* [round - 실수를 정수로 근사하기](http://blog.seulgi.kim/2017/04/round.html)
