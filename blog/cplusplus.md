@@ -5,3 +5,4 @@
 * [enum class - 안전하고 쓰기 쉬운 enum](http://blog.seulgi.kim/2015/11/cpp-enum-class.html)
 * [생성자에서 예외가 발생하면 어떻게 될까](http://blog.seulgi.kim/2017/02/cpp-exception-in-constructor.html)
 * [왜 c++은 복잡한 value category를 가지게 됐는가 ](http://blog.seulgi.kim/2017/06/cpp11-value-category.html)
+* [lvalue와 rvalue](http://blog.seulgi.kim/2017/06/modern-cpp-lvalue-rvalue.html)
