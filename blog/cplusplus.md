@@ -7,3 +7,4 @@
 * [왜 c++은 복잡한 value category를 가지게 됐는가 ](http://blog.seulgi.kim/2017/06/cpp11-value-category.html)
 * [lvalue와 rvalue](http://blog.seulgi.kim/2017/06/modern-cpp-lvalue-rvalue.html)
 * [glvalue와 prvalue](http://blog.seulgi.kim/2017/07/modern-cpp-glvalue-prvalue.html)
+* [object는 언제 생성돼서 언제 소멸되는가 - storage](http://blog.seulgi.kim/2017/07/cpp-object-storage.html)
