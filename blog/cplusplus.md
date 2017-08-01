@@ -8,3 +8,4 @@
 * [lvalue와 rvalue](http://blog.seulgi.kim/2017/06/modern-cpp-lvalue-rvalue.html)
 * [glvalue와 prvalue](http://blog.seulgi.kim/2017/07/modern-cpp-glvalue-prvalue.html)
 * [object는 언제 생성돼서 언제 소멸되는가 - storage](http://blog.seulgi.kim/2017/07/cpp-object-storage.html)
+* [이름과 스코프 ](http://blog.seulgi.kim/2017/08/cpp-scope.html)
