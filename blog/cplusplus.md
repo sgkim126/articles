@@ -11,3 +11,4 @@
 * [이름과 스코프 ](http://blog.seulgi.kim/2017/08/cpp-scope.html)
 * [internal linkage와 external linkage의 차이](http://blog.seulgi.kim/2017/08/cpp-linkage.html)
 * [Variadic template](http://blog.seulgi.kim/2017/10/cpp-variadic-template.html)
+* [array to pointer decay](http://blog.seulgi.kim/2017/10/cpp-array-to-pointer-decay.html)
