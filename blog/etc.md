@@ -20,3 +20,4 @@
 * [Lua를 쓰면 3번째 의자가 필요하지 않을까 - lua는 어떻게 swap할까 ](http://blog.seulgi.kim/2017/01/lua-swap.html)
 * [round(1234.5)의 결과는 무엇일까](http://blog.seulgi.kim/2017/03/round-12345.html)
 * [round - 실수를 정수로 근사하기](http://blog.seulgi.kim/2017/04/round.html)
+* [high availability 서버를 만들기 어려운 이유](http://blog.seulgi.kim/2017/10/why-high-availability-server-is-hard.html)
