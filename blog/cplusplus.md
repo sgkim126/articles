@@ -15,3 +15,4 @@
 * [C++ Core Guidelines - modern C++을 위한 안내서](http://blog.seulgi.kim/2017/10/cpp-core-guidelines.html)
 * [volatile](http://blog.seulgi.kim/2017/11/cpp-volatile.html)
 * [memory barrier - 메모리 접근의 순서 보장하기](http://blog.seulgi.kim/2017/11/cpp-memory-barrier.html)
+* [Visual C++의 volatile](http://blog.seulgi.kim/2017/11/vcpp-volatile.html)
