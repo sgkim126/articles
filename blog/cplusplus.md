@@ -12,8 +12,11 @@
 * [internal linkage와 external linkage의 차이](http://blog.seulgi.kim/2017/08/cpp-linkage.html)
 * [Variadic template](http://blog.seulgi.kim/2017/10/cpp-variadic-template.html)
 * [array to pointer decay](http://blog.seulgi.kim/2017/10/cpp-array-to-pointer-decay.html)
-* [C++ Core Guidelines - modern C++을 위한 안내서](http://blog.seulgi.kim/2017/10/cpp-core-guidelines.html)
 * [volatile](http://blog.seulgi.kim/2017/11/cpp-volatile.html)
 * [memory barrier - 메모리 접근의 순서 보장하기](http://blog.seulgi.kim/2017/11/cpp-memory-barrier.html)
 * [Visual C++의 volatile](http://blog.seulgi.kim/2017/11/vcpp-volatile.html)
 * [as-if rule - 소스에 적힌 순서대로 실행되지 않는 이유](http://blog.seulgi.kim/2017/11/cpp-as-if-rule.html)
+
+#### [C++ Core Guidelines](http://blog.seulgi.kim/search/label/Cpp%20Core%20Guidelines)
+* [C++ Core Guidelines - modern C++을 위한 안내서](http://blog.seulgi.kim/2017/10/cpp-core-guidelines.html)
+* [const_cast는 언제 써야 하는가](http://blog.seulgi.kim/2017/11/cpp-core-guidelines-const-cast.html)
