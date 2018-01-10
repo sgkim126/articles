@@ -22,3 +22,4 @@
 * [round - 실수를 정수로 근사하기](http://blog.seulgi.kim/2017/04/round.html)
 * [high availability 서버를 만들기 어려운 이유](http://blog.seulgi.kim/2017/10/why-high-availability-server-is-hard.html)
 * [crash-only software - high availability server 만들기](http://blog.seulgi.kim/2017/10/crash-only-software.html)
+* [RLP encoding](http://blog.seulgi.kim/2018/01/rlp-encoding.html)
