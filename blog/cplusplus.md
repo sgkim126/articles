@@ -20,3 +20,4 @@
 #### [C++ Core Guidelines](http://blog.seulgi.kim/search/label/Cpp%20Core%20Guidelines)
 * [C++ Core Guidelines - modern C++을 위한 안내서](http://blog.seulgi.kim/2017/10/cpp-core-guidelines.html)
 * [const_cast는 언제 써야 하는가](http://blog.seulgi.kim/2017/11/cpp-core-guidelines-const-cast.html)
+* [포인터 구분해서 쓰기 - span, owner](http://blog.seulgi.kim/2018/02/cppcoreguidelines-span-owner.html)
