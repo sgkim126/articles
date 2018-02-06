@@ -17,3 +17,4 @@
 * [카테고리 씨어리 공부 중](http://diary.seulgi.kim/2015/07/category-theory.html)
 * [2560 해상도는 신세계다](http://diary.seulgi.kim/2015/12/2560-resolution.html)
 * [로지텍 G302 게이밍 마우스](http://diary.seulgi.kim/2016/10/logitech-g302.html)
+* [샤오미 A1](http://diary.seulgi.kim/2018/02/xiaomi-a1.html)
