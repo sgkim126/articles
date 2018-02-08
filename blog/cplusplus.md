@@ -16,6 +16,7 @@
 * [memory barrier - 메모리 접근의 순서 보장하기](http://blog.seulgi.kim/2017/11/cpp-memory-barrier.html)
 * [Visual C++의 volatile](http://blog.seulgi.kim/2017/11/vcpp-volatile.html)
 * [as-if rule - 소스에 적힌 순서대로 실행되지 않는 이유](http://blog.seulgi.kim/2017/11/cpp-as-if-rule.html)
+* [copy elision - 복사 생성자는 생략될 수 있다](http://blog.seulgi.kim/2018/02/copy-elision.html)
 
 #### [C++ Core Guidelines](http://blog.seulgi.kim/search/label/Cpp%20Core%20Guidelines)
 * [C++ Core Guidelines - modern C++을 위한 안내서](http://blog.seulgi.kim/2017/10/cpp-core-guidelines.html)
