@@ -24,3 +24,4 @@
 * [crash-only software - high availability server 만들기](http://blog.seulgi.kim/2017/10/crash-only-software.html)
 * [RLP encoding](http://blog.seulgi.kim/2018/01/rlp-encoding.html)
 * [tagged pointer - 포인터에 정보 담기](http://blog.seulgi.kim/2018/02/c-tagged-pointer.html)
+* [Diffie-Hellman Key Exchange - 공개된 정보만으로 secret key 만들기](http://blog.seulgi.kim/2018/02/diffie-hellman-key-exchange.html)
