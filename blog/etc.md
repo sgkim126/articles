@@ -25,3 +25,4 @@
 * [RLP encoding](http://blog.seulgi.kim/2018/01/rlp-encoding.html)
 * [tagged pointer - 포인터에 정보 담기](http://blog.seulgi.kim/2018/02/c-tagged-pointer.html)
 * [Diffie-Hellman Key Exchange - 공개된 정보만으로 secret key 만들기](http://blog.seulgi.kim/2018/02/diffie-hellman-key-exchange.html)
+* [Cloudflare의 Flexible SSL을 쓰면 안 되는 이유 ](http://blog.seulgi.kim/2018/02/no-flexible-ssl.html)
