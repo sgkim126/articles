@@ -21,3 +21,4 @@
 * [crash-only software - high availability server 만들기](http://blog.seulgi.kim/2017/10/crash-only-software.html)
 * [RLP encoding](http://blog.seulgi.kim/2018/01/rlp-encoding.html)
 * [tagged pointer - 포인터에 정보 담기](http://blog.seulgi.kim/2018/02/c-tagged-pointer.html)
+* [좋은 코드를 많이 봐야 한다](http://blog.seulgi.kim/2018/02/you-should-read-good-code.html)
