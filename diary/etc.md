@@ -19,3 +19,4 @@
 * [로지텍 G302 게이밍 마우스](http://diary.seulgi.kim/2016/10/logitech-g302.html)
 * [샤오미 A1](http://diary.seulgi.kim/2018/02/xiaomi-a1.html)
 * [LG ALL x NEW gram 14인치](http://diary.seulgi.kim/2018/02/lg-gram.html)
+* [근황 일기](http://diary.seulgi.kim/2018/03/lovelyz.html)
