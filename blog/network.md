@@ -4,3 +4,4 @@
 * [high availability 서버를 만들기 어려운 이유](http://blog.seulgi.kim/2017/10/why-high-availability-server-is-hard.html)
 * [Diffie-Hellman Key Exchange - 공개된 정보만으로 secret key 만들기](http://blog.seulgi.kim/2018/02/diffie-hellman-key-exchange.html)
 * [Cloudflare의 Flexible SSL을 쓰면 안 되는 이유 ](http://blog.seulgi.kim/2018/02/no-flexible-ssl.html)
+* [CAP theorem](http://blog.seulgi.kim/2018/03/cap-theorem.html)
