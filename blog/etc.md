@@ -19,8 +19,5 @@
 * [round(1234.5)의 결과는 무엇일까](https://blog.seulgi.kim/2017/03/round-12345.html)
 * [round - 실수를 정수로 근사하기](https://blog.seulgi.kim/2017/04/round.html)
 * [crash-only software - high availability server 만들기](https://blog.seulgi.kim/2017/10/crash-only-software.html)
-* [RLP encoding](https://blog.seulgi.kim/2018/01/rlp-encoding.html)
 * [tagged pointer - 포인터에 정보 담기](https://blog.seulgi.kim/2018/02/c-tagged-pointer.html)
 * [좋은 코드를 많이 봐야 한다](https://blog.seulgi.kim/2018/02/you-should-read-good-code.html)
-* [이더리움과 Eclipse attack](https://blog.seulgi.kim/2018/03/ethereum-eclipse-attack.html)
-* [Ethereum의 state trie pruning](https://blog.seulgi.kim/2018/04/state-trie-pruning.html)

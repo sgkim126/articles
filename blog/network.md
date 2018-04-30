@@ -6,5 +6,3 @@
 * [Cloudflare의 Flexible SSL을 쓰면 안 되는 이유 ](https://blog.seulgi.kim/2018/02/no-flexible-ssl.html)
 * [CAP theorem](https://blog.seulgi.kim/2018/03/cap-theorem.html)
 * [Alice와 Bob](https://blog.seulgi.kim/2018/03/alice-and-bob_29.html)
-* [이더리움 샤딩](https://blog.seulgi.kim/2018/04/ethereum-sharding.html)
-* [Byzantine Fault Tolerance 시스템에서 N = 3f + 1인 이유](https://blog.seulgi.kim/2018/04/byzantine-fault-tolerance-n-3f-1.html)
