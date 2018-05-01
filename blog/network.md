@@ -6,3 +6,4 @@
 * [Cloudflare의 Flexible SSL을 쓰면 안 되는 이유 ](https://blog.seulgi.kim/2018/02/no-flexible-ssl.html)
 * [CAP theorem](https://blog.seulgi.kim/2018/03/cap-theorem.html)
 * [Alice와 Bob](https://blog.seulgi.kim/2018/03/alice-and-bob_29.html)
+* [2 phase commit](https://blog.seulgi.kim/2018/05/two-phase-commit.html)
