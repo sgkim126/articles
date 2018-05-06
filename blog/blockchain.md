@@ -6,3 +6,4 @@
 * [이더리움과 Eclipse attack](https://blog.seulgi.kim/2018/03/ethereum-eclipse-attack.html)
 * [이더리움 샤딩](https://blog.seulgi.kim/2018/04/ethereum-sharding.html)
 * [Ethereum의 state trie pruning](https://blog.seulgi.kim/2018/04/state-trie-pruning.html)
+* [Modified Merkle Patricia Trie - ethereum이 상태를 저장하는 방법](https://blog.seulgi.kim/2018/05/modified-merkle-patricia-trie.html)
