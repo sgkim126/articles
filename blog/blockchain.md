@@ -7,3 +7,4 @@
 * [이더리움 샤딩](https://blog.seulgi.kim/2018/04/ethereum-sharding.html)
 * [Ethereum의 state trie pruning](https://blog.seulgi.kim/2018/04/state-trie-pruning.html)
 * [Modified Merkle Patricia Trie - ethereum이 상태를 저장하는 방법](https://blog.seulgi.kim/2018/05/modified-merkle-patricia-trie.html)
+* [Secure Tree - state trie의 키가 256 bit인 이유](https://blog.seulgi.kim/2018/05/ethereum-secure-tree.html)
