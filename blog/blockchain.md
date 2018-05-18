@@ -1,5 +1,6 @@
 ### [Blockchain]
 * [Byzantine Fault Tolerance 시스템에서 N = 3f + 1인 이유](https://blog.seulgi.kim/2018/04/byzantine-fault-tolerance-n-3f-1.html)
+* [Byzantine Failure - 블록체인 개발이 어려운 이유](https://blog.seulgi.kim/2018/05/byzantine-failure-why-blockchain-is-hard.html)
 
 #### Ethereum
 * [RLP encoding](https://blog.seulgi.kim/2018/01/rlp-encoding.html)
