@@ -10,3 +10,4 @@
 * [17번째 주](https://blog.seulgi.kim/2018/04/w17.html)
 * [18번째 주](https://blog.seulgi.kim/2018/05/w18.html)
 * [19번째 주](https://blog.seulgi.kim/2018/05/w19.html)
+* [20번째 주](https://blog.seulgi.kim/2018/05/w20.html)
