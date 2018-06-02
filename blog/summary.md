@@ -12,3 +12,4 @@
 * [19번째 주](https://blog.seulgi.kim/2018/05/w19.html)
 * [20번째 주](https://blog.seulgi.kim/2018/05/w20.html)
 * [21번째 주 - Consensus algorithm](https://blog.seulgi.kim/2018/05/w21.html)
+* [22번째 주 - P2P Network](https://blog.seulgi.kim/2018/06/w22.html)
