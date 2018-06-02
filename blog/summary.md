@@ -11,4 +11,4 @@
 * [18번째 주](https://blog.seulgi.kim/2018/05/w18.html)
 * [19번째 주](https://blog.seulgi.kim/2018/05/w19.html)
 * [20번째 주](https://blog.seulgi.kim/2018/05/w20.html)
-* [21번째 주](https://blog.seulgi.kim/2018/05/w21.html)
+* [21번째 주 - Consensus algorithm](https://blog.seulgi.kim/2018/05/w21.html)
