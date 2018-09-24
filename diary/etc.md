@@ -20,3 +20,4 @@
 * [샤오미 A1](https://diary.seulgi.kim/2018/02/xiaomi-a1.html)
 * [LG ALL x NEW gram 14인치](https://diary.seulgi.kim/2018/02/lg-gram.html)
 * [근황 일기](https://diary.seulgi.kim/2018/03/lovelyz.html)
+* [Tesla smart HDMI KVM Switch](https://diary.seulgi.kim/2018/09/tesla-smart-hdmi-kvm-switch.html)
