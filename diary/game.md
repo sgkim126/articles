@@ -12,6 +12,7 @@
 * [Last Horizon](https://diary.seulgi.kim/2016/09/last-horizon.html)
 * [Styx: Master of Shadows](https://diary.seulgi.kim/2016/11/styx-master-of-shadows.html)
 * [Forward to the Sky](https://diary.seulgi.kim/2016/11/forward-to-sky.html)
+* [Lara Croft GO](https://diary.seulgi.kim/2018/12/lara-croft-go.html)
 
 ### Assassin's creed
 * [Assassin's creed III 후기](https://diary.seulgi.kim/2014/07/assassins-creed-iii_26.html)
