@@ -22,3 +22,4 @@
 * [근황 일기](https://diary.seulgi.kim/2018/03/lovelyz.html)
 * [Kensington Expert Mouse Wireless Trackball](https://diary.seulgi.kim/2018/08/kensington-expert-mouse-wireless.html)
 * [Tesla smart HDMI KVM Switch](https://diary.seulgi.kim/2018/09/tesla-smart-hdmi-kvm-switch.html)
+* [노트북 상판 뜯기](https://diary.seulgi.kim/2019/02/u35.html)
