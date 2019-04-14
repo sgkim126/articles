@@ -23,3 +23,4 @@
 * [좋은 코드를 많이 봐야 한다](https://blog.seulgi.kim/2018/02/you-should-read-good-code.html)
 * [Chromium OS 설치 후기](https://blog.seulgi.kim/2018/08/chromium-os.html)
 * [managed language와 unmanaged language?](https://blog.seulgi.kim/2019/04/managed-language-vs-unmanaged-langauge.html)
+* [Garbage collection과 memory leak](https://blog.seulgi.kim/2019/04/garbage-collection-and-memory-leak.html)
