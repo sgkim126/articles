@@ -24,3 +24,4 @@
 * [Tesla smart HDMI KVM Switch](https://diary.seulgi.kim/2018/09/tesla-smart-hdmi-kvm-switch.html)
 * [노트북 상판 뜯기](https://diary.seulgi.kim/2019/02/u35.html)
 * [노트북 하판에 구멍내기](https://diary.seulgi.kim/2019/02/u35-2.html)
+* [포인투 크롬북 14 터치 LT0301-01KR](https://diary.seulgi.kim/2019/04/poin2-chromebook-14t.html)
