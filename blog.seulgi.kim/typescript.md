@@ -1,0 +1,6 @@
+### [TypeScript](https://blog.seulgi.kim/search/label/TypeScript)
+* [TypeScript와 함께 한 4개월](https://blog.seulgi.kim/2015/06/4-months-with-typescript.html)
+* [타입스크립트의 단점](https://blog.seulgi.kim/2015/06/cons-of-otypescript.html)
+* [Type guard - sum type 분리하기](https://blog.seulgi.kim/2015/08/typescript-type-guard.html)
+* [Flow vs TypeScript - 왜 나는 아직 타입스크립트를 쓰는가](https://blog.seulgi.kim/2016/01/flow-vs-typescript.html)
+* [Promise.all에는 인자 개수 제한이 없다](https://blog.seulgi.kim/2019/07/promise-all-tuple.html)
