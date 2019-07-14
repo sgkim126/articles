@@ -9,6 +9,7 @@
 * [타입스크립트의 단점](https://blog.seulgi.kim/2015/06/cons-of-otypescript.html)
 * [Type guard - sum type 분리하기](https://blog.seulgi.kim/2015/08/typescript-type-guard.html)
 * [Flow vs TypeScript - 왜 나는 아직 타입스크립트를 쓰는가](https://blog.seulgi.kim/2016/01/flow-vs-typescript.html)
+* [Promise.all에는 인자 개수 제한이 없다](https://blog.seulgi.kim/2019/07/promise-all-tuple.html)
 
 #### [CoffeeScript](https://blog.seulgi.kim/search/label/CoffeeScript)
 * [undefined를 void 0로 compile하는 이유는 무엇일까](https://blog.seulgi.kim/2014/03/coffeescript-undefined-void-0-compile.html)
