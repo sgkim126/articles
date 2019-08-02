@@ -7,3 +7,4 @@
 * [린 소프트웨어 개발의 적용](https://diary.seulgi.kim/2019/07/implementing-lean-software-development.html)
 * [구두, 그 취향과 우아함의 역사](https://diary.seulgi.kim/2019/08/shoes-a-brief-history.html)
 * [서양 무기의 역사](https://diary.seulgi.kim/2019/08/western-weapons-history.html)
+* [세상을 바꾼 12권의 책](https://diary.seulgi.kim/2019/08/12-books-that-changed-the-world.html)
