@@ -9,6 +9,7 @@
 * [서양 무기의 역사](https://diary.seulgi.kim/2019/08/western-weapons-history.html)
 * [세상을 바꾼 12권의 책](https://diary.seulgi.kim/2019/08/12-books-that-changed-the-world.html)
 * [영어는 3단어로](https://diary.seulgi.kim/2019/08/english-in-three-words.html)
+* [폴 데이비스의 타임머신](https://diary.seulgi.kim/2019/08/how-to-build-a-time-machine.html)
 
 ### 만화
 * [팝 팀 에픽](https://diary.seulgi.kim/2019/08/pop-team-epic.html)
