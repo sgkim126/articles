@@ -10,6 +10,7 @@
 * [세상을 바꾼 12권의 책](https://www.seulgi.kim/2019/08/12-books-that-changed-the-world.html)
 * [영어는 3단어로](https://www.seulgi.kim/2019/08/english-in-three-words.html)
 * [폴 데이비스의 타임머신](https://www.seulgi.kim/2019/08/how-to-build-a-time-machine.html)
+* [외교관 아빠가 들려주는 외교 이야기](https://www.seulgi.kim/2019/08/diplomat.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
