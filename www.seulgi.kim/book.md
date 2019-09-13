@@ -12,6 +12,7 @@
 * [폴 데이비스의 타임머신](https://www.seulgi.kim/2019/08/how-to-build-a-time-machine.html)
 * [외교관 아빠가 들려주는 외교 이야기](https://www.seulgi.kim/2019/08/diplomat.html)
 * [죽은 경제학자의 살아있는 아이디어](https://www.seulgi.kim/2019/08/new-ideas-from-dead-economists.html)
+* [게르마니아](https://www.seulgi.kim/2019/09/germania.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
