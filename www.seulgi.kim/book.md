@@ -17,3 +17,4 @@
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
+* [FABLES](https://www.seulgi.kim/2019/09/fables-01.html)
