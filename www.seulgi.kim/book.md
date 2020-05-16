@@ -14,6 +14,7 @@
 * [죽은 경제학자의 살아있는 아이디어](https://www.seulgi.kim/2019/08/new-ideas-from-dead-economists.html)
 * [게르마니아](https://www.seulgi.kim/2019/09/germania.html)
 * [곰브리치 세계사](https://www.seulgi.kim/2019/09/a-little-history-of-the-world.html)
+* [경제학 콘서트](https://www.seulgi.kim/2020/05/undercover-economist.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
