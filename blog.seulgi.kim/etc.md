@@ -25,3 +25,4 @@
 * [managed language와 unmanaged language?](https://blog.seulgi.kim/2019/04/managed-language-vs-unmanaged-langauge.html)
 * [Garbage collection과 memory leak](https://blog.seulgi.kim/2019/04/garbage-collection-and-memory-leak.html)
 * [일정 예상은 왜 실패할까?](https://blog.seulgi.kim/2019/10/why-do-programmers-take-longer-than-expected.html)
+* [조건 반복문과 for-each 반복문](https://blog.seulgi.kim/2020/06/loop.html)
