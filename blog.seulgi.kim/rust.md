@@ -3,3 +3,4 @@
 * [Rust 읽을거리](https://blog.seulgi.kim/2018/11/rust.html)
 * [타입 변환하기](https://blog.seulgi.kim/2019/05/rust-type-conversion.html)
 * [함수의 lifetime parameter는 언제 써야 하고 언제 생략할 수 있나요?](https://blog.seulgi.kim/2019/12/rust-lifetime-elision.html)
+* [Rust의 반복문](https://blog.seulgi.kim/2020/06/loop-in-rust.html)
