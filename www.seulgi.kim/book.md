@@ -16,6 +16,7 @@
 * [곰브리치 세계사](https://www.seulgi.kim/2019/09/a-little-history-of-the-world.html)
 * [경제학 콘서트](https://www.seulgi.kim/2020/05/undercover-economist.html)
 * [힘있는 글쓰기](https://www.seulgi.kim/2020/01/writing-with-power.html)
+* [토머스 불핀치의 그리스 로마 신화](https://www.seulgi.kim/2020/06/the-age-of-fable.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
