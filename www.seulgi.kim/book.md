@@ -18,6 +18,7 @@
 * [힘있는 글쓰기](https://www.seulgi.kim/2020/01/writing-with-power.html)
 * [토머스 불핀치의 그리스 로마 신화](https://www.seulgi.kim/2020/06/the-age-of-fable.html)
 * [국화와 칼](https://www.seulgi.kim/2020/07/the-chrysanthemum-and-the-sword.html)
+* [쇼펜하우어 철학에세이](https://www.seulgi.kim/2019/10/schopenhauer.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
