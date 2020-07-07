@@ -20,6 +20,7 @@
 * [국화와 칼](https://www.seulgi.kim/2020/07/the-chrysanthemum-and-the-sword.html)
 * [쇼펜하우어 철학에세이](https://www.seulgi.kim/2019/10/schopenhauer.html)
 * [의식과 전쟁 - 고대 국가를 바라보는 새로운 시각](https://www.seulgi.kim/2020/07/rite-and-war.html)
+* [황하에서 천산까지](https://www.seulgi.kim/2020/07/fyr-tts.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
