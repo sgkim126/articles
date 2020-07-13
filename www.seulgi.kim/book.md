@@ -23,6 +23,7 @@
 * [황하에서 천산까지](https://www.seulgi.kim/2020/07/fyr-tts.html)
 * [청소년을 위한 서양철학사](https://www.seulgi.kim/2020/07/history-of-philosophy.html)
 * [이상한 나라의 사각형](https://www.seulgi.kim/2020/07/flatland.html)
+* [지도로 보는 세계](https://www.seulgi.kim/2020/07/atlas-du-monde-global.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
