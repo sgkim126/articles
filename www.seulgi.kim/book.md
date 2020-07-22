@@ -25,6 +25,7 @@
 * [이상한 나라의 사각형](https://www.seulgi.kim/2020/07/flatland.html)
 * [지도로 보는 세계](https://www.seulgi.kim/2020/07/atlas-du-monde-global.html)
 * [괴짜 경제학](https://www.seulgi.kim/2020/06/freakonomics.html)
+* [김하중의 중국 이야기](https://www.seulgi.kim/2020/07/china.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
