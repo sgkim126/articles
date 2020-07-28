@@ -26,6 +26,7 @@
 * [지도로 보는 세계](https://www.seulgi.kim/2020/07/atlas-du-monde-global.html)
 * [괴짜 경제학](https://www.seulgi.kim/2020/06/freakonomics.html)
 * [김하중의 중국 이야기](https://www.seulgi.kim/2020/07/china.html)
+* [하룻밤에 읽는 서양 사상](https://www.seulgi.kim/2020/07/western-philosophy-in-a-day.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
