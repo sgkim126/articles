@@ -13,7 +13,6 @@
 * [Styx: Master of Shadows](https://diary.seulgi.kim/2016/11/styx-master-of-shadows.html)
 * [Forward to the Sky](https://diary.seulgi.kim/2016/11/forward-to-sky.html)
 * [Lara Croft GO](https://diary.seulgi.kim/2018/12/lara-croft-go.html)
-* [단간론파 - 희망의 학원과 절망의 고교생](https://diary.seulgi.kim/2021/03/danganronpa.html)
 
 ### Assassin's creed
 * [Assassin's creed III 후기](https://diary.seulgi.kim/2014/07/assassins-creed-iii_26.html)
@@ -29,3 +28,7 @@
 ### Hitman
 * [히트맨: 앱솔루션](https://diary.seulgi.kim/2015/08/hitman-absolution.html)
 * [Hitman GO ](https://diary.seulgi.kim/2017/03/game-hitman-go.html)
+
+### [단간론파](https://diary.seulgi.kim/search/label/Danganronpa)
+* [단간론파 - 희망의 학원과 절망의 고교생](https://diary.seulgi.kim/2021/03/danganronpa.html)
+* [슈퍼 단간론파 2: 안녕 절망학원](https://diary.seulgi.kim/2021/04/danganronpa-2.html)
