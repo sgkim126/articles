@@ -12,3 +12,4 @@
 * [다른 블로그 서비스 찾는 중](https://diary.seulgi.kim/2015/07/find-blog-service.html)
 * [카테고리 씨어리 공부 중](https://diary.seulgi.kim/2015/07/category-theory.html)
 * [근황 일기](https://diary.seulgi.kim/2018/03/lovelyz.html)
+* [요일을 나타내는 순 우리말은?](https://diary.seulgi.kim/2021/04/names-of-the-days-of-the-week.html)
