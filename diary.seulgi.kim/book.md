@@ -27,7 +27,8 @@
 * [괴짜 경제학](https://diary.seulgi.kim/2020/06/freakonomics.html)
 * [김하중의 중국 이야기](https://diary.seulgi.kim/2020/07/china.html)
 * [하룻밤에 읽는 서양 사상](https://diary.seulgi.kim/2020/07/western-philosophy-in-a-day.html)
-
+* [레인보우 클래식](https://diary.seulgi.kim/2020/08/rainbow-classic.html)
+* 
 ### 만화
 * [팝 팀 에픽](https://diary.seulgi.kim/2019/08/pop-team-epic.html)
 * [FABLES](https://diary.seulgi.kim/2019/09/fables-01.html)
