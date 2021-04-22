@@ -33,3 +33,4 @@
 ### [단간론파](https://www.seulgi.kim/search/label/Danganronpa)
 * [단간론파 - 희망의 학원과 절망의 고교생](https://www.seulgi.kim/2021/03/danganronpa.html)
 * [슈퍼 단간론파 2: 안녕 절망학원](https://www.seulgi.kim/2021/04/danganronpa-2.html)
+* [단간론파 Another Episode: 절대절망소녀](https://www.seulgi.kim/2021/04/danganronpa-another-episode-ultra-despair-girls.html)
