@@ -14,6 +14,7 @@
 * [Forward to the Sky](https://www.seulgi.kim/2016/11/forward-to-sky.html)
 * [Lara Croft GO](https://www.seulgi.kim/2018/12/lara-croft-go.html)
 * [It takes two](https://www.seulgi.kim/2021/04/it-takes-two.html)
+* [Do Not Feed the Monkeys](https://www.seulgi.kim/2021/04/do-not-feed-the-monkeys.html)
 
 ### Assassin's creed
 * [Assassin's creed III 후기](https://www.seulgi.kim/2014/07/assassins-creed-iii_26.html)
