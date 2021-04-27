@@ -18,18 +18,18 @@
 * [Iris.Fall](https://www.seulgi.kim/2021/04/irisfall.html)
 * [Shadwen](https://www.seulgi.kim/2021/04/shadwen.html)
 
-### Assassin's creed
-* [Assassin's creed III 후기](https://www.seulgi.kim/2014/07/assassins-creed-iii_26.html)
-* [Assassin's creed III DLC - The Tyranny of King Washington 후기](https://www.seulgi.kim/2014/07/assassins-creed-iii-dlc-tyranny-of-king.html)
+### [Assassin's Creed](https://www.seulgi.kim/search/label/Assassin%27s%20creed)
+* [Assassin's Creed III 후기](https://www.seulgi.kim/2014/07/assassins-creed-iii_26.html)
+* [Assassin's Creed III DLC - The Tyranny of King Washington 후기](https://www.seulgi.kim/2014/07/assassins-creed-iii-dlc-tyranny-of-king.html)
 * [Assassin’s Creed III - Liberation](https://www.seulgi.kim/2017/10/assassins-creed-3-liberation.html)
 * [Assassin’s Creed IV - Black Flag](https://www.seulgi.kim/2015/12/assassins-creed-IV-black-flag.html)
 * [Assassin’s Creed IV - Freedom Cry](https://www.seulgi.kim/2016/01/assassins-creed-iv-freedom-cry.html)
 
-### Prototype
+### [Prototype](https://www.seulgi.kim/search/label/prototype)
 * [Prototype 리뷰](https://www.seulgi.kim/2014/09/prototype.html)
-* [Prototype 2 ](https://www.seulgi.kim/2016/11/prototype-2.html)
+* [Prototype 2](https://www.seulgi.kim/2016/11/prototype-2.html)
 
-### Hitman
+### [Hitman](https://www.seulgi.kim/search/label/Hitman)
 * [히트맨: 앱솔루션](https://www.seulgi.kim/2015/08/hitman-absolution.html)
 * [Hitman GO ](https://www.seulgi.kim/2017/03/game-hitman-go.html)
 
