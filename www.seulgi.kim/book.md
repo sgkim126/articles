@@ -29,6 +29,7 @@
 * [하룻밤에 읽는 서양 사상](https://www.seulgi.kim/2020/07/western-philosophy-in-a-day.html)
 * [레인보우 클래식](https://www.seulgi.kim/2020/08/rainbow-classic.html)
 * [구멍 뚫린 두개골의 비밀 - 알고 나면 재미있는 뇌 이야기](https://www.seulgi.kim/2020/08/brain.html)
+* [평화적 세력전이의 국제정치](https://www.seulgi.kim/2020/07/power-transition.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
