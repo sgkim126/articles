@@ -31,6 +31,7 @@
 * [구멍 뚫린 두개골의 비밀 - 알고 나면 재미있는 뇌 이야기](https://www.seulgi.kim/2020/08/brain.html)
 * [평화적 세력전이의 국제정치](https://www.seulgi.kim/2020/07/power-transition.html)
 * [냉전](https://www.seulgi.kim/2021/04/cold-war.html)
+* [지리의 힘](https://www.seulgi.kim/2021/06/prisoners-of-geography.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
