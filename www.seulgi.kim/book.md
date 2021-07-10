@@ -32,6 +32,7 @@
 * [평화적 세력전이의 국제정치](https://www.seulgi.kim/2020/07/power-transition.html)
 * [냉전](https://www.seulgi.kim/2021/04/cold-war.html)
 * [지리의 힘](https://www.seulgi.kim/2021/06/prisoners-of-geography.html)
+* [신들의 사랑법](https://www.seulgi.kim/2021/07/gods-love.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
