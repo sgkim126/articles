@@ -17,6 +17,7 @@
 * [Do Not Feed the Monkeys](https://www.seulgi.kim/2021/04/do-not-feed-the-monkeys.html)
 * [Iris.Fall](https://www.seulgi.kim/2021/04/irisfall.html)
 * [Shadwen](https://www.seulgi.kim/2021/04/shadwen.html)
+* [HEADLINER](https://www.seulgi.kim/2021/07/headliner.html)
 
 ### [Assassin's Creed](https://www.seulgi.kim/search/label/Assassin%27s%20creed)
 * [Assassin's Creed III 후기](https://www.seulgi.kim/2014/07/assassins-creed-iii_26.html)
