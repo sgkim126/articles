@@ -35,6 +35,7 @@
 * [신들의 사랑법](https://www.seulgi.kim/2021/07/gods-love.html)
 * [알기 쉽고 재미있는 비행기 이야기](https://www.seulgi.kim/2021/07/aircraft.html)
 * [API로 배우는 Windows 구조와 원리](https://www.seulgi.kim/2021/07/api-windows.html)
+* [도쿄 기담집](https://www.seulgi.kim/2020/07/tokyo-kitanshu.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
