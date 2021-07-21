@@ -18,6 +18,7 @@
 * [Iris.Fall](https://www.seulgi.kim/2021/04/irisfall.html)
 * [Shadwen](https://www.seulgi.kim/2021/04/shadwen.html)
 * [HEADLINER](https://www.seulgi.kim/2021/07/headliner.html)
+* [로스팅 리포트:대학생 수면제 사망사건](https://www.seulgi.kim/2021/07/roating-report.html)
 
 ### [Assassin's Creed](https://www.seulgi.kim/search/label/Assassin%27s%20creed)
 * [Assassin's Creed III 후기](https://www.seulgi.kim/2014/07/assassins-creed-iii_26.html)
