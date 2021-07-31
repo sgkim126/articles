@@ -37,6 +37,7 @@
 * [API로 배우는 Windows 구조와 원리](https://www.seulgi.kim/2021/07/api-windows.html)
 * [도쿄 기담집](https://www.seulgi.kim/2020/07/tokyo-kitanshu.html)
 * [악마의 정원에서 : 죄악과 매혹으로 가득 찬 금기 음식의 역사](https://www.seulgi.kim/2021/07/in-the-devils-garden.html)
+* [스몰토크 - 대화가 쉬워지는 말의 공식](https://www.seulgi.kim/2021/07/smalltalk.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
