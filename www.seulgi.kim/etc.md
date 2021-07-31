@@ -13,3 +13,4 @@
 * [카테고리 씨어리 공부 중](https://www.seulgi.kim/2015/07/category-theory.html)
 * [근황 일기](https://www.seulgi.kim/2018/03/lovelyz.html)
 * [요일을 나타내는 순 우리말은?](https://www.seulgi.kim/2021/04/names-of-the-days-of-the-week.html)
+* [구독하던 블로그들을 정리했다](https://www.seulgi.kim/2021/08/blog-post.html)
