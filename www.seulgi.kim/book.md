@@ -41,6 +41,7 @@
 * [나는 너를 책처럼 읽을 수 있어](https://www.seulgi.kim/2021/08/i-can-read-you-like-a-book.html)
 * [그림으로 보는 시간의 역사](https://www.seulgi.kim/2021/08/the-illustrated-a-brief-history-of-time.html)
 * [일본인과 에로스](https://www.seulgi.kim/2021/08/japanese-and-eros.html)
+* [랜들 먼로의 친절한 과학 그림책](https://www.seulgi.kim/2021/08/thing-explainer.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
