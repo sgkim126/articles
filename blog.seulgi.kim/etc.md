@@ -27,3 +27,4 @@
 * [일정 예상은 왜 실패할까?](https://blog.seulgi.kim/2019/10/why-do-programmers-take-longer-than-expected.html)
 * [조건 반복문과 for-each 반복문](https://blog.seulgi.kim/2020/06/loop.html)
 * [Escape Codes의 역사](https://blog.seulgi.kim/2023/03/history-of-escape-codes.html)
+* [escape codes의 이해](https://blog.seulgi.kim/2023/03/blog-post.html)
