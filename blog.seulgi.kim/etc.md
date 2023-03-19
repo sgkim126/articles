@@ -28,3 +28,4 @@
 * [조건 반복문과 for-each 반복문](https://blog.seulgi.kim/2020/06/loop.html)
 * [Escape Codes의 역사](https://blog.seulgi.kim/2023/03/history-of-escape-codes.html)
 * [escape codes의 이해](https://blog.seulgi.kim/2023/03/blog-post.html)
+* [LF, CR 그리고 CRLF](https://blog.seulgi.kim/2023/03/blog-post_16.html)
