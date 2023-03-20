@@ -29,3 +29,4 @@
 * [Escape Codes의 역사](https://blog.seulgi.kim/2023/03/history-of-escape-codes.html)
 * [escape codes의 이해](https://blog.seulgi.kim/2023/03/blog-post.html)
 * [LF, CR 그리고 CRLF](https://blog.seulgi.kim/2023/03/blog-post_16.html)
+* [터미널 출력 제어를 위한 termios 구조체 이해하기](https://blog.seulgi.kim/2023/03/termios.html)
