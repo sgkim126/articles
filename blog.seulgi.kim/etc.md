@@ -30,3 +30,4 @@
 * [escape codes의 이해](https://blog.seulgi.kim/2023/03/blog-post.html)
 * [LF, CR 그리고 CRLF](https://blog.seulgi.kim/2023/03/blog-post_16.html)
 * [터미널 출력 제어를 위한 termios 구조체 이해하기](https://blog.seulgi.kim/2023/03/termios.html)
+* [텍스트 애플리케이션에서 Carriage Return 사용하기](https://blog.seulgi.kim/2023/03/carriage-return.html)
