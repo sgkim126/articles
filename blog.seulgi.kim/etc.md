@@ -32,3 +32,4 @@
 * [터미널 출력 제어를 위한 termios 구조체 이해하기](https://blog.seulgi.kim/2023/03/termios.html)
 * [텍스트 애플리케이션에서 Carriage Return 사용하기](https://blog.seulgi.kim/2023/03/carriage-return.html)
 * [CSI Sequence의 구조](https://blog.seulgi.kim/2023/03/control-sequence.html)
+* [CSI Sequence: 커서 옮기기](https://blog.seulgi.kim/2023/03/csi-sequence-cursor.html)
