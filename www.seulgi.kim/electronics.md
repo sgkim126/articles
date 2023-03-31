@@ -9,6 +9,7 @@
 * [Kensington Expert Mouse Wireless Trackball](https://www.seulgi.kim/2018/08/kensington-expert-mouse-wireless.html)
 * [Tesla smart HDMI KVM Switch](https://www.seulgi.kim/2018/09/tesla-smart-hdmi-kvm-switch.html)
 * [포인투 크롬북 14 터치 LT0301-01KR](https://www.seulgi.kim/2019/04/poin2-chromebook-14t.html)
+* [COX CK87 BT](https://www.seulgi.kim/2023/03/cox-ck87-bt.html)
 
 ### 개조
 * [Poker X 스위치 교체](https://www.seulgi.kim/2013/04/poker-x.html)
