@@ -16,3 +16,4 @@
 * [Majestouch 스위치 교체](https://www.seulgi.kim/2013/04/majestouch.html)
 * [노트북 상판 뜯기](https://www.seulgi.kim/2019/02/u35.html)
 * [노트북 하판에 구멍내기](https://www.seulgi.kim/2019/02/u35-2.html)
+* [흡음시트로 기계식 키보드 소음을 줄여보자 (스포: 실패함)](https://www.seulgi.kim/2023/04/blog-post.html)
