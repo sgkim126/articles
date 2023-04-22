@@ -6,4 +6,4 @@
 * [Handling Terminal Output with Termios](https://blog.seulgi.dev/2023/03/handling-terminal-output-with-termios.html)
 * [Use Carriage Return for Simple Progress Bar in Text Applications](https://blog.seulgi.dev/2023/03/carriage-return.html)
 * [Cursor Movement with CSI Sequences](https://blog.seulgi.dev/2023/03/cursor-movement-with-csi-sequences.html)
-* [Clear Screen with CSI Sequence(https://blog.seulgi.dev/2023/04/clear-screen-with-csi-sequence.html)
+* [Clear Screen with CSI Sequence](https://blog.seulgi.dev/2023/04/clear-screen-with-csi-sequence.html)
