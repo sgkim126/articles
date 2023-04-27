@@ -34,3 +34,4 @@
 * [CSI Sequence의 구조](https://blog.seulgi.kim/2023/03/control-sequence.html)
 * [CSI Sequence: 커서 옮기기](https://blog.seulgi.kim/2023/03/csi-sequence-cursor.html)
 * [CSI Sequence: 화면 지우기](https://blog.seulgi.kim/2023/04/csi-el-ed.html)
+* [Linux의 clear와 Mac의 clear는 다르다](https://blog.seulgi.kim/2023/04/linux-clear-mac-clear.html)
