@@ -27,3 +27,4 @@
 * [일정 예상은 왜 실패할까?](https://blog.seulgi.kim/2019/10/why-do-programmers-take-longer-than-expected.html)
 * [조건 반복문과 for-each 반복문](https://blog.seulgi.kim/2020/06/loop.html)
 * [USB 2.0의 내부 구조](https://blog.seulgi.kim/2024/09/blog-post.html)
+* [USB 2.0 과 3.x의 컨넥터 호환성](https://blog.seulgi.kim/2024/12/usb-20-3x.html)
