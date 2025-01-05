@@ -28,3 +28,4 @@
 * [조건 반복문과 for-each 반복문](https://blog.seulgi.kim/2020/06/loop.html)
 * [USB 2.0의 내부 구조](https://blog.seulgi.kim/2024/09/blog-post.html)
 * [USB 2.0 과 3.x의 컨넥터 호환성](https://blog.seulgi.kim/2024/12/usb-20-3x.html)
+* [USB 3.x 케이블 무엇을 골라야 하나](https://blog.seulgi.kim/2024/12/usb-3x.html)
