@@ -26,3 +26,4 @@
 * [Garbage collection과 memory leak](https://blog.seulgi.kim/2019/04/garbage-collection-and-memory-leak.html)
 * [일정 예상은 왜 실패할까?](https://blog.seulgi.kim/2019/10/why-do-programmers-take-longer-than-expected.html)
 * [조건 반복문과 for-each 반복문](https://blog.seulgi.kim/2020/06/loop.html)
+* [Aspect-Oriented Programming의 이해와 적용](https://blog.seulgi.kim/2025/05/aspect-oriented-programming.html)
