@@ -9,3 +9,4 @@
 * [Clear Screen with CSI Sequence](https://blog.seulgi.dev/2023/04/clear-screen-with-csi-sequence.html)
 * [What is the size of an empty object?](https://blog.seulgi.dev/2023/04/what-is-size-of-empty-object.html)
 * [Difference Between the clear Command in Linux and Mac](https://blog.seulgi.dev/2023/04/difference-between-clear-commands-in.html)
+* [Understanding Aspect-Oriented Programming with Python Examples](https://blog.seulgi.dev/2025/05/understanding-aspect-oriented.html)
