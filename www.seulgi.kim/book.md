@@ -1,4 +1,7 @@
 ## 책
+* [읽을 책을 어떻게 찾을까](https://www.seulgi.kim/2026/02/blog-post.html)
+
+### 후기
 * [밀리터리 실패열전](https://www.seulgi.kim/2019/07/military-failure.html)
 * [행복한 프로그래밍](https://www.seulgi.kim/2019/07/happy-programming.html)
 * [Professional 소프트웨어 개발](https://www.seulgi.kim/2019/07/professional-software-development.html)
