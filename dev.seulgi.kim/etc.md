@@ -1,0 +1,12 @@
+### [etc]
+* [Do not use garbage collection to catch memory leak](https://dev.seulgi.kim/2019/04/do-not-use-garbage-collection-to-catch-memory-leak.html)
+* [Brief History of Escape Codes](https://dev.seulgi.kim/2023/03/brief-history-of-escape-codes.html)
+* [Understanding Escape Codes and Control Sequences](https://dev.seulgi.kim/2023/03/escape-codes.html)
+* [CR, LF, and CRLF](https://dev.seulgi.kim/2023/03/cr-lf-and-crlf.html)
+* [Handling Terminal Output with Termios](https://dev.seulgi.kim/2023/03/handling-terminal-output-with-termios.html)
+* [Use Carriage Return for Simple Progress Bar in Text Applications](https://dev.seulgi.kim/2023/03/carriage-return.html)
+* [Cursor Movement with CSI Sequences](https://dev.seulgi.kim/2023/03/cursor-movement-with-csi-sequences.html)
+* [Clear Screen with CSI Sequence](https://dev.seulgi.kim/2023/04/clear-screen-with-csi-sequence.html)
+* [What is the size of an empty object?](https://dev.seulgi.kim/2023/04/what-is-size-of-empty-object.html)
+* [Difference Between the clear Command in Linux and Mac](https://dev.seulgi.kim/2023/04/difference-between-clear-commands-in.html)
+* [Understanding Aspect-Oriented Programming with Python Examples](https://dev.seulgi.kim/2025/05/understanding-aspect-oriented.html)
