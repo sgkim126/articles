@@ -47,6 +47,7 @@
 * [랜들 먼로의 친절한 과학 그림책](https://www.seulgi.kim/2021/08/thing-explainer.html)
 * [마술을 하면서 배운 101가지](https://www.seulgi.kim/2026/01/101.html)
 * [사무실의 도른자들](https://www.seulgi.kim/2026/01/blog-post.html)
+* [Real MySQL 8.0](https://www.seulgi.kim/2026/05/real-mysql-80.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
