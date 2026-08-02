@@ -50,6 +50,7 @@
 * [Real MySQL 8.0](https://www.seulgi.kim/2026/05/real-mysql-80.html)
 * [틀리지 않는 법 - 우리가 수학을 공부해야 하는 이유](https://www.seulgi.kim/2026/06/how-not-to-be-wrong.html)
 * [로지컬 씽킹 - LLM 시대에 다시 보는 맥킨지식 사고법](https://www.seulgi.kim/2026/07/logical-thinking.html)
+* [Effective Kotlin - 그다지 Effective 하지 않은](https://www.seulgi.kim/2026/08/effective-kotlin.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
