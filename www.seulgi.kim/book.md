@@ -53,6 +53,7 @@
 * [Effective Kotlin - 그다지 Effective 하지 않은](https://www.seulgi.kim/2026/08/effective-kotlin.html)
 * [프로그래머의 뇌 - 좋은 코드가 무엇인지에 대한 인지과학적 설명](https://www.seulgi.kim/2026/08/the-programmers-brain.html)
 * [알고리즘 산책: 수학에서 제네릭 프로그래밍까지 - 추상화를 어떻게 해야 하는지에 대한 수학적 설명](https://www.seulgi.kim/2026/08/from-mathematics-to-generic-programming.html)
+* [사악한 디자인](https://www.seulgi.kim/2026/09/evil-by-design.html)
 
 ### 만화
 * [팝 팀 에픽](https://www.seulgi.kim/2019/08/pop-team-epic.html)
